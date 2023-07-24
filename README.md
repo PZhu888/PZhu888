@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PZhu888
-- 👀 I’m interested in IT.
-- 🌱 I’m currently learning web development.
+- 👀 I’m interested in IT, music, and gardening.
+- 🌱 I’m currently learning web development at neue fische.
 - 💞️ I’m looking to collaborate on Git Hub.
 - 📫 You can find me here.
 
