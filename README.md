@@ -7,7 +7,7 @@
 - JavaScript
 - react
 
-  💞️ I’m looking to collaborate on Git Hub.
+  💞️ I’m looking to collaborate on programming.
   
   📫 You can find me here or
   
