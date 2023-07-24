@@ -1,4 +1,4 @@
-  👋 Hi, I’m @PZhu888
+  👋 Hi, my name is Ping.
   👀 I’m interested in IT, reading, and gardening.
   🌱 I’m currently learning web development at neue fische.
   I would like to learn:
