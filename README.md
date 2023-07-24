@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @PZhu888
-- 👀 I’m interested in IT, music, and gardening.
-- 🌱 I’m currently learning web development at neue fische.
-- 💞️ I’m looking to collaborate on Git Hub.
-- 📫 You can find me here or
-  ![kiel](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kiel_Rathaus_0336.jpg/330px-Kiel_Rathaus_0336.jpg)
+  👋 Hi, I’m @PZhu888
+  👀 I’m interested in IT, reading, and gardening.
+  🌱 I’m currently learning web development at neue fische.
+  I would like to learn:
+- HTML
+- CSS
+- JavaScript
+- react
+
+  💞️ I’m looking to collaborate on Git Hub.
+  
+  📫 You can find me here or
+- ![kiel](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kiel_Rathaus_0336.jpg/330px-Kiel_Rathaus_0336.jpg)
   
 
 <!---
