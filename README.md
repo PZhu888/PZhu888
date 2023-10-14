@@ -1,12 +1,6 @@
   👋 Hi, my name is Ping.
-  👀 I’m interested in IT, reading, and gardening.
-  🌱 I’m currently learning web development at neue fische.
-  I would like to learn:
-- HTML
-- CSS
-- JavaScript
-- react
-
+  👀 I’m interested in coding, research, and teamwork.
+  🌱 I’m a junior web developer.
   💞️ I’m looking to collaborate on programming.
   
   📫 You can find me here or
