@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **react**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ping-zhu-92a564140/]
+- 📄 Know about my experiences [My Linkedin Page](https://www.linkedin.com/in/ping-zhu-92a564140/)
 
 <p align="left">
 </p>
